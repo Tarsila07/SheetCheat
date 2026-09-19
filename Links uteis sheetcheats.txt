@@ -1,0 +1,18 @@
+Links uteis:
+sheetcheats:
+https://hacktricks.wiki/en/index.html
+https://github.com/swisskyrepo/PayloadsAllTheThings
+https://gist.github.com/aw-junaid/f035169ae1f3889d7b656167123f125c
+
+hashes:
+https://crackstation.net/
+https://hashcat.net/wiki/doku.php?id=example_hashes
+https://www.tunnelsup.com/hash-analyzer/
+
+estabilizando shell:
+https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/
+
+escalação de privilegio:
+https://gtfobins.org/
+https://www.revshells.com/
+
